@@ -1,0 +1,118 @@
+body {
+    background-color: #e6e6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.conthead {
+    background-color: white;
+ 
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navpaul {
+    /* background-color: white !important; */
+    padding: 0px;
+
+}
+
+.paulnav {
+    background-color: #4aaaa5;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    height: 100%;
+    text-align: center;
+}
+.labpaul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4aaaa5;
+    color:white;
+    height: 5rem;
+    width: 13rem;
+    text-align: center;
+    
+}
+.h1paul {
+   font-size: 20px;
+}
+
+
+.cardconnect {
+    color: #4aaaa5;
+}
+
+.gabeme {
+    float: left;
+    width: 180px;
+    height: 120px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.stuff {
+    color: #777777;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+  
+}
+
+input {
+    color: #a6a6a6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 90%;
+    height: 35px;
+    
+}
+
+textarea {
+    width: 90%;
+}
+.isubmit {
+    height: 55px;
+    width: 85px;
+    color: white;
+    background-color: #4aaaa5;
+    border: none;
+}
+
+.cardbodyx {
+    background-color: #4aaaa5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardtitlex {
+    color: white;
+}
+
+.custfooter {
+    clear: both;
+    height: 50px;
+    padding: 20px;
+    color: white;
+    font-size: 8px;
+    text-align: center;
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    background-color:#666666;
+}
+
+/* @media (min-width: 1250px) { 
+    .card {
+        width: 15rem !important;
+    }
+ } */
+
+ /* @media (max-width: 980px) { 
+    body {
+       background-color: red !important;
+    }
+ } */
